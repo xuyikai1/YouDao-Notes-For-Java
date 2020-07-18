@@ -4,6 +4,9 @@
 
 以下的有道笔记均在学习过程中截图并且记录,其中未进行个人总结的部分在日后准备开设个人博客来分享自己的一些见解。
 
+个人博客：[xuyk.top](http://xuyk.top/)
+欢迎吐槽~
+
 **笔记主题列表**
 - [ ] [Mysql](http://note.youdao.com/noteshare?id=55ab2f7c2ee5ede8977d4818287dc719)
 - [ ] [Mysql优化](http://note.youdao.com/noteshare?id=81a941faf62ae05bb45700244784e8cb)
