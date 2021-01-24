@@ -1,6 +1,6 @@
-# Some Notes Made in Learning 
+# Some Elegant Practices Made in Learning 
 
-**一个Java学习日常笔记系列**
+**java路上的一些优雅实践，在此记录与分享**
 
 以下的有道笔记均在学习过程中截图并且记录,其中未进行个人总结的部分在日后准备开设个人博客来分享自己的一些见解。
 
