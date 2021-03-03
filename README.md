@@ -21,3 +21,4 @@
 - [ ] [高并发相关](http://note.youdao.com/noteshare?id=245e3e05034fb68b8112d365a5c0866d)
 - [ ] [网络相关](http://note.youdao.com/noteshare?id=fce18f52dc57b3b38e761e2583f6c6c6)
 - [ ] [成长体系课程笔记](http://note.youdao.com/s/aHMtVqmO)
+- [ ] [秒杀项目笔记](http://note.youdao.com/s/Ipel0XSb)
