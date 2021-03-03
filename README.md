@@ -11,8 +11,8 @@
 另外，我的博客，欢迎吐槽~
 
 **笔记主题列表**
-- [ ] [Mysql](http://note.youdao.com/noteshare?id=55ab2f7c2ee5ede8977d4818287dc719)
-- [ ] [Mysql优化](http://note.youdao.com/noteshare?id=81a941faf62ae05bb45700244784e8cb)
+- [Mysql](http://note.youdao.com/noteshare?id=55ab2f7c2ee5ede8977d4818287dc719)
+- [Mysql优化](http://note.youdao.com/noteshare?id=81a941faf62ae05bb45700244784e8cb)
 - [ ] [Java常用类库](http://note.youdao.com/noteshare?id=f6734aa86f5d66302d9728c529b44969)
 - [ ] [Netty](http://note.youdao.com/noteshare?id=56ab417b4452c62c4a705b438a0c52e9)
 - [ ] [JVM](http://note.youdao.com/noteshare?id=b13184a9bd1fc410a03776093446684f)
